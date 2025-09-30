@@ -1,0 +1,16 @@
+.q1, .q2  /* Grouping Selector*/
+{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.q1
+{
+   color: #ffffff;
+   background-color: #000000;
+}
+
+.q2
+{
+    background-color: rgb(238, 227, 79);
+}
